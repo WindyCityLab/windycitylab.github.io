@@ -3,8 +3,8 @@ title: home
 layout: home
 permalink: /
 ---
-<p align="center">
-<img src="wcl_updated.png" alt="Image" width="300" height="280" style="display: block; display: block;
+<p class="center">
+<img src="wcl_updated.png" alt="Image" width="300" height="280" align="center" class="center" style="display: block; display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;" />
