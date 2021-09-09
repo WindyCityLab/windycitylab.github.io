@@ -5,7 +5,6 @@ theme: trylaarsdam/jekyll-theme-console
 style: light
 header_pages:
   - index.md
-  - peter.md
-  - about.md
+  - team.md
   - contact.md
 footer: '© Windy City Lab, LLC - 2021, all rights reserved -- follow us on <a href="https://twitter.com/windycitylab">twitter</a>'
