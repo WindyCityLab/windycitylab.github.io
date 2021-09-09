@@ -3,3 +3,8 @@ markdown: kramdown
 
 theme: b2a3e8/jekyll-theme-console
 style: light
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
