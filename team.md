@@ -1,7 +1,7 @@
 ---
 title: team
 layout: home
-permalink: /
+permalink: /team
 ---
 # The Team
 
