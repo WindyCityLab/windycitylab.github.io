@@ -55,11 +55,11 @@ Windy City Lab specializes in consulting, workshops, and CTO services in hardwar
 * TICK Stack
 
 ## *Our Clients*
-* Northwestern University School of Education and Social Policy - https://northwestern.edu
-* Center for Talent Development @ Northwestern University - https://ctd.northwestern.edu
-* The Chicago Connectory - https://chicagoconnectory.com
-* Argonne National Laboratory - https://anl.gov
-* The University of Chicago - https://uchicago.edu
-* Mayo Clinic - https://mayoclinic.org
-* Chicago Public Schools Office of Computer Science - https://cps.edu
-* Spacebot - https://spacebot.ai
+* Northwestern University School of Education and Social Policy
+* Center for Talent Development @ Northwestern University
+* The Chicago Connectory
+* Argonne National Laboratory
+* The University of Chicago
+* Mayo Clinic
+* Chicago Public Schools Office of Computer Science
+* Spacebot
