@@ -12,3 +12,23 @@ permalink: /
 # Welcome to Windy City Lab
 ---
 Windy City Lab specializes in consulting, workshops, and CTO services in hardware, software, and firmware for embedded systems.
+
+# Our specialties
+## Embedded Software Development
+* I2C (TWI)
+* SPI
+* USART
+* STMicro MCU's
+* Microchip
+* Nordic
+* Hierarchical State Machines
+* Free RTOS
+* Zephyr RTOS
+## Hardware Design
+* System Design
+* Schematic Design
+* PCB Design and Layout
+* Bench-top Prototyping
+* Power Management
+* Wireless Communication
+* Firmware Development
