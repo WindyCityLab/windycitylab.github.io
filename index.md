@@ -54,7 +54,7 @@ Windy City Lab specializes in consulting, workshops, and CTO services in hardwar
 * Firebase/Firestore
 * TICK Stack
 
-##*Our Clients*
+## *Our Clients*
 * Northwestern University School of Education and Social Policy - https://northwestern.edu
 * Center for Talent Development @ Northwestern University - https://ctd.northwestern.edu
 * The Chicago Connectory - https://chicagoconnectory.com
