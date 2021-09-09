@@ -66,6 +66,7 @@ Windy City Lab specializes in consulting, workshops, and CTO services in hardwar
 * Spacebot
 
 ## *About Me*
+
 I graduated from IIT with a B.S. in Computer Science with a Digital Electronics focus. After graduation, I was hired by General Dynamics (now Lockheed) where I spent several years working on embedded avionics development for special projects as the chief architect. I spent many years working for Rational Software as an embedded software architecture consultant, eventually running their professional services organization, worldwide.
 
 I have been developing iOS mobile apps ever since there was the first iOS SDK. I have taught iOS for several years and have developed a high-school curriculum that is now deployed at over 9 high-schools throughout the Chicago metropolitan area as well as an App Dev with Swift Course for Chicago Public Schools.
@@ -76,7 +77,7 @@ My passion is applying my skills across a broad spectrum of disciplines to build
 
 I also love to mentor and teach. I regularly do workshops on IoT and also teach a 3-week IoT Engineering class to gifted high-schoolers at Northwestern University each summer.
 
-*Some fun facts (in no particular order):
+*Some fun facts (in no particular order):*
 
 * I was born and raised in Chicago. It has come a long way since I was a kid. 
 * I got my private pilot's license in 1983. No, I'm not still current but I still have my log book. 
