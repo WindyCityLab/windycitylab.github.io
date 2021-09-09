@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 <p class="center">
-<img src="wcl_updated.png" alt="Image" width="100%" height="100%" align="center" class="center" style="display: block; display: block;
+<img src="wcl_updated.png" alt="Image" width="40%" height="40%" align="center" class="center" style="display: block; display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;" />
@@ -32,3 +32,34 @@ Windy City Lab specializes in consulting, workshops, and CTO services in hardwar
 * Power Management
 * Wireless Communication
 * Firmware Development
+## Mobile Development
+* iOS
+* iPadOS
+* WatchOS
+* Dart
+* Flutter
+## Cloud Development
+* Custom API's
+* Node
+* Javascript
+## Wireless Technologies
+* Low Energy Bluetooth (BLE)
+* Sigfox
+* LoraWan
+* RFM96
+## Database Technologies
+* SQL
+* No-SQL
+* CloudKit
+* Firebase/Firestore
+* TICK Stack
+
+##*Our Clients*
+* Northwestern University School of Education and Social Policy - https://northwestern.edu
+* Center for Talent Development @ Northwestern University - https://ctd.northwestern.edu
+* The Chicago Connectory - https://chicagoconnectory.com
+* Argonne National Laboratory - https://anl.gov
+* The University of Chicago - https://uchicago.edu
+* Mayo Clinic - https://mayoclinic.org
+* Chicago Public Schools Office of Computer Science - https://cps.edu
+* Spacebot - https://spacebot.ai
