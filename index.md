@@ -3,7 +3,7 @@ title: home
 layout: home
 permalink: /
 ---
-<img src="wcl.png" alt="Image" width="800" height="600" style="display: block; margin: 0 auto" />
+<img src="wcl_updated.png" alt="Image" width="300" height="280" style="display: block; margin: auto; align: center;" />
 
 # Welcome to Windy City Lab
 ---
