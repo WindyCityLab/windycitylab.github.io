@@ -1,5 +1,5 @@
 ---
-title: Windy City Labs
+title: wcl
 layout: home
 permalink: /
 ---
