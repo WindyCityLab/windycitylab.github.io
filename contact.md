@@ -1,5 +1,5 @@
 ---
-title: contact me
+title: contact
 layout: home
 permalink: /contact
 ---
