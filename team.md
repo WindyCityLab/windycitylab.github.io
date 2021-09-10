@@ -99,3 +99,10 @@ I also love to mentor and teach. I regularly do workshops on IoT and also teach 
 &%%%%&%&&%&%&&&%&%%&&&%@&@@&@&&&((&%&&&&&@@%&&&@@@@%&@%%&%@%&&@%&%&&%&%%%%###(%#
 %%%%%&&%%%%@%%%%%%%&#@&%&%&#&&&&%(&&&&&&%&&%&&%@@&%&&@@%%#&&@@##%%&#%&&%&%#%%%%%
 </p>
+*About Todd* 
+
+I found Windy City Labs through taking classes taught by Kevin for CTD at Northwestern University. During mid-2020 I started as a part-time intern at WCL and then started working full time in May 2021 after graduating high school a year early. 
+
+I've been writing code for embedded systems since middle school through VEX Robotics and expanded to developing for the Arduino and Particle platforms in high school. Over the past year and a half, I have been doing extensive work in JavaScript and Node.JS as well and implementing most of the MERN stack in a variety of projects. I also have experience in 3D modeling and creating custom mounts and enclosures using various additive and subtractive machining tools such as 3D printers, CNC routers, and laser cutters.
+
+I love taking ideas for products and bringing them to life by designing and manufacturing them and then connecting them to the cloud with various IoT technologies. Alongside my work at WCL, I also love to play piano and viola, do technical design and operation of theatre shows, and play around with DIY PCs and the Windows registry. I'm also a Star Trek fan (as long as it wasn't made after 2002) and enjoy playing with my Siberian husky Colby.
