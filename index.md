@@ -12,7 +12,7 @@ permalink: /
 </p>
 # Welcome to Windy City Lab
 ---
-Windy City Lab specializes in consulting, workshops, and CTO services in hardware, software, and firmware for embedded systems.
+Windy City Lab specializes in consulting, workshops, courses and CTO services in hardware, firmware for embedded systems, mobile development for iOS and cloud services.
 
 # *Our specialties*
 ## Embedded Software Development
