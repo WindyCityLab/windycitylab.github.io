@@ -50,6 +50,7 @@ Windy City Lab specializes in consulting, workshops, courses and CTO services in
 * Google Cloud
 ## Wireless Technologies
 * Low Energy Bluetooth (BLE)
+* MQTT
 * Lora
 * LoraWan
 * RFM96
