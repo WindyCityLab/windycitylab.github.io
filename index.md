@@ -22,7 +22,7 @@ Windy City Lab specializes in consulting, workshops, and CTO services in hardwar
 * STMicro MCU's
 * Microchip
 * Nordic
-* Hierarchical State Machines
+* Finite State Machines
 * Free RTOS
 * Zephyr RTOS
 ## Hardware Design
@@ -33,19 +33,24 @@ Windy City Lab specializes in consulting, workshops, and CTO services in hardwar
 * Power Management
 * Wireless Communication
 * Firmware Development
+* FPGA's - Verilog
 ## Mobile Development
 * iOS
 * iPadOS
 * WatchOS
-* Dart
-* Flutter
+* SwiftUI
+* Swift
+* Objective-C
+* Swift Package Management
 ## Cloud Development
 * Custom API's
 * Node
 * Javascript
+* Pub/Sub
+* Google Cloud
 ## Wireless Technologies
 * Low Energy Bluetooth (BLE)
-* Sigfox
+* Lora
 * LoraWan
 * RFM96
 ## Database Technologies
@@ -53,7 +58,7 @@ Windy City Lab specializes in consulting, workshops, and CTO services in hardwar
 * No-SQL
 * CloudKit
 * Firebase/Firestore
-* TICK Stack
+* InfluxDB
 
 ## *Our Clients*
 * Northwestern University School of Education and Social Policy
