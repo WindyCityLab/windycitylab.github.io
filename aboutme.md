@@ -1,9 +1,9 @@
 ---
-title: team
+title: aboutme
 layout: home
-permalink: /team
+permalink: /aboutme
 ---
-# The Team
+# About Me
 
 ## Kevin McQuown (principle engineer)
 <p class=mini>
