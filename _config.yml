@@ -1,7 +1,7 @@
-remote_theme: trylaarsdam/jekyll-theme-console
+# remote_theme: trylaarsdam/jekyll-theme-console
 markdown: kramdown
 
-theme: jekyll-theme-console
+theme: trylaarsdam/jekyll-theme-console
 style: light
 header_pages:
   - index.md
