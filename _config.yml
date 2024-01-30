@@ -1,10 +1,13 @@
 # remote_theme: trylaarsdam/jekyll-theme-console
 markdown: kramdown
 
+plugins:
+  - jekyll-redirect-from
+
 remote_theme: trylaarsdam/jekyll-theme-console
 style: light
 header_pages:
   - index.md
   - aboutme.md
   - contact.md
-footer: '© 2023 Windy City Lab, LLC -- all rights reserved'
+footer: '© 2024 Windy City Lab, LLC -- all rights reserved'
