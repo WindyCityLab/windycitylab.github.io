@@ -61,7 +61,7 @@ Windy City Lab specializes in consulting, workshops, courses and CTO services in
 * Firebase/Firestore
 * InfluxDB
 
-## *Our Clients*
+## *My Clients*
 * Northwestern University School of Education and Social Policy
 * Center for Talent Development @ Northwestern University
 * The Chicago Connectory
