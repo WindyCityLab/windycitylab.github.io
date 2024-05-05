@@ -7,7 +7,7 @@ permalink: /aboutme
 
 ## Kevin McQuown
 <p align="center">
-  <img src="./kevin.png" alt="Description of image">
+  <img src="./kevin.png" alt="Description of image" style="width: 60%; height: auto;">
 </p>
 
 *About Kevin*
