@@ -16,9 +16,10 @@ I graduated from IIT with a B.S. in Computer Science with a Digital Electronics 
 
 I have been developing iOS mobile apps ever since there was the first iOS SDK. I have taught iOS for several years and have developed a high-school curriculum that is now deployed at over 9 high-schools throughout the Chicago metropolitan area as well as an App Dev with Swift Course for Chicago Public Schools.
 
-I was CTO for-hire for Guard Llama and was the CTO and co-founder of Glance Displays Inc. I founded Windy City Lab in 2014 to provide consulting and education in the IoT space which is what I am currently doing full-time.
+I was the CTO and co-founder of Glance Displays Inc. I founded Windy City Lab in 2014 to provide consulting and education in the IoT space which is what I am currently doing full-time.
 
-My passion is applying my skills across a broad spectrum of disciplines to build a physical product. This includes embedded development in C/ C++, mobile development in Swift, cloud development in Node, schematic and PCB design, and 3-D CAD design. 
+My passion is applying my skills across a broad spectrum of disciplines to build a physical product. This includes embedded development in C/ C++, mobile development in Swift, cloud development in Node, schematic and PCB design, and 3-D CAD design. I current have two on-line Masterclasses, both of which I teach in the summer, in person at Northwestern as part of their Center For Talent Development (CTD).  If your interested in learning more about these course you can check out the links here:
+
 
 I also love to mentor and teach. I regularly do workshops on IoT and also teach a 3-week IoT Engineering class to gifted high-schoolers at Northwestern University each summer.
 
