@@ -8,6 +8,7 @@ remote_theme: trylaarsdam/jekyll-theme-console
 style: light
 header_pages:
   - index.md
+  - ai-capabilities.md
   - aboutme.md
   - contact.md
 footer: '© 2025 Windy City Lab, LLC -- all rights reserved'
