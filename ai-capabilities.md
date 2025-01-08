@@ -1,12 +1,10 @@
 ---
-title: "AI Consulting Expertise"
+title: "AI Consulting"
 layout: default
 permalink: /ai-consulting-expertise/
 ---
 
 # AI Consulting Expertise
-
-I bring extensive experience in artificial intelligence, large language models (LLMs), and modern AI-driven development frameworks. My work spans teaching, consulting, and hands-on implementation of AI solutions, particularly for applications that integrate AI models into software and hardware systems.
 
 ## Core Competencies
 
@@ -56,6 +54,4 @@ I offer consulting services tailored to:
 - Designing AI-powered IoT devices and embedded systems.
 - Providing AI training and workshops for teams and organizations.
 
-## Contact
-Interested in discussing how AI can drive your project or business forward? [Get in touch with me](mailto:kevin@turingguild.com) today!
 
