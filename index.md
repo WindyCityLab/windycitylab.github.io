@@ -48,5 +48,3 @@ Flexible learning solutions for modern professionals:
 - Certification Programs
 
 ---
-
-Ready to enhance your technological capabilities? [Contact me](#) to discuss how I can help your organization succeed.
