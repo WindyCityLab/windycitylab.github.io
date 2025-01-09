@@ -1,15 +1,48 @@
-# remote_theme: trylaarsdam/jekyll-theme-console
-markdown: kramdown
+# Site settings
+title: Windy City Lab
+email: your-email@windycitylab.com
+description: >- 
+  Professional consulting and training in AI, Software Development, 
+  Hardware Engineering, and Technical Education.
+baseurl: "" # leave empty if hosting at root
+url: "https://windycitylab.com"
 
+# Build settings
+markdown: kramdown
+theme: minima
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-redirect-from
+
+# Navigation
+header_pages:
+  - index.md
+  - ai-capabilities.md
+  - softwareHardware.md
+  - in-person-courses.md
+  - contact.md
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
 
 remote_theme: trylaarsdam/jekyll-theme-console
 style: light
-header_pages:
-  - index.md
-  - softwareHardware.md
-  - ai-capabilities.md
-  - aboutme.md
-  - contact.md
+
 footer: '© 2025 Windy City Lab, LLC -- All Rights Reserved'
