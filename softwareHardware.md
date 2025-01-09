@@ -3,14 +3,7 @@ title: Software & Hardware Development
 layout: home
 permalink: /
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-<p class="center">
-<img src="wcl_updated.png" alt="Image" width="40%" height="40%" align="center" class="center" style="display: block; display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" />
-</p>
-# Welcome to Windy City Lab
+# Software & Hardware Development Consulting
 ---
 Windy City Lab specializes in consulting, workshops, courses and CTO services in hardware, firmware, iOS mobile development and cloud services.
 

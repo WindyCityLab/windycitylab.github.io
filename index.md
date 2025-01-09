@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Professional Services
+title: WCL Overview
 permalink: /
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+<p class="center">
+<img src="wcl_updated.png" alt="Image" width="40%" height="40%" align="center" class="center" style="display: block; display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" />
+</p>
+---
+# Welcome to Windy City Lab
+
 # Professional Services
 
 Welcome to my professional services portfolio. I specialize in helping businesses and individuals navigate the technological landscape through four key service areas:
