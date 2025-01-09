@@ -1,7 +1,7 @@
 ---
-title: Software & Hardware Development
-layout: home
-permalink: /
+layout: default
+title: "Software & Hardware Development"
+permalink: /software-hardware/
 ---
 # Software & Hardware Development Consulting
 ---
