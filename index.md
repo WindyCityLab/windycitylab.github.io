@@ -15,7 +15,7 @@ permalink: /
 
 # Professional Services
 
-Welcome to my professional services portfolio. I specialize in helping businesses and individuals navigate the technological landscape through four key service areas:
+Welcome to my professional services portfolio. I provide consulting services in four key areas:
 
 ## 1. AI Consulting
 
@@ -24,7 +24,6 @@ Expert guidance to help your organization leverage artificial intelligence effec
 - Implementation Planning
 - Custom AI Solution Design
 - AI Integration Services
-- ROI Assessment & Optimization
 
 [Learn more about our AI capabilities](ai-capabilities)
 
@@ -48,6 +47,12 @@ Hands-on learning experiences tailored to your team:
 - Custom Corporate Training
 - Interactive Learning Sessions
 
+Additionally I offer two courses at Northwestern University each summer under the Center for Talent Development (CDT)
+
+This summer I am offering:
+    - Leveraging AI in Computer Science & Engineering
+    - Engineering Your Own Computer
+
 ## 4. Online Self-Paced Training
 
 Flexible learning solutions for modern professionals:
@@ -55,6 +60,5 @@ Flexible learning solutions for modern professionals:
 - Interactive Tutorials
 - Project-Based Learning
 - Progress Tracking
-- Certification Programs
 
 ---
