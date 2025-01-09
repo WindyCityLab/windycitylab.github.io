@@ -6,13 +6,11 @@ permalink: /in-person-courses/
 
 # In-Person Technical Courses
 
-We offer intensive, hands-on courses designed for engineers, developers, and technical professionals who want to deepen their understanding of fundamental and emerging technologies.
+I offer intensive, hands-on courses designed for engineers, developers, and technical professionals who want to deepen their understanding of fundamental and emerging technologies.
 
 ## CPU Architecture
 A deep dive into modern processor design and implementation:
 - Understanding processor microarchitecture
-- Pipeline design and optimization
-- Cache hierarchies and memory systems
 - Instruction set architectures (ISA)
 - Performance analysis and optimization
 - Hands-on exercises with real CPU designs
@@ -59,4 +57,4 @@ Master the integration of AI into technical projects:
 - IT Professionals
 - Engineering Teams
 
-[Contact us](contact) to schedule a course for your team or organization. 
+[Contact me](contact) to schedule a course for your team or organization. 

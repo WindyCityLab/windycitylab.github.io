@@ -25,7 +25,7 @@ Expert guidance to help your organization leverage artificial intelligence effec
 - Custom AI Solution Design
 - AI Integration Services
 
-[Learn more about our AI capabilities](ai-capabilities)
+[Learn more](ai-consulting-expertise)
 
 ## 2. Software & Hardware Development
 
@@ -36,7 +36,7 @@ End-to-end development services for your technical needs:
 - System Architecture Design
 - Technical Documentation
 
-[Learn more about our software and hardware solutions](softwareHardware)
+[Learn more](software-hardware)
 
 ## 3. In-Person Training & Workshops
 
@@ -52,6 +52,8 @@ Additionally I offer two courses at Northwestern University each summer under th
 This summer I am offering:
     - Leveraging AI in Computer Science & Engineering
     - Engineering Your Own Computer
+
+[Learn more](in-person-courses)
 
 ## 4. Online Self-Paced Training
 
