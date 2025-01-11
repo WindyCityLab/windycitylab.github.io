@@ -12,16 +12,44 @@ permalink: /
 </p>
 
 <style>
+/* Default light theme variables */
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+  --border-color: #444444;
+}
+
+/* Dark theme when user prefers dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1a1a1a;
+    --text-color: #ffffff;
+    --border-color: #666666;
+  }
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
   padding: 20px;
 }
+
 .grid-item {
   padding: 20px;
-  border: 1px solid #444;
+  border: 1px solid var(--border-color);
   border-radius: 8px;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--text-color);
 }
 </style>
 

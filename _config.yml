@@ -42,6 +42,6 @@ exclude:
   - vendor/
 
 remote_theme: trylaarsdam/jekyll-theme-console
-style: dark
+# style: dark
 
 footer: '© 2025 Windy City Lab, LLC -- All Rights Reserved'
