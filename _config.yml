@@ -1,15 +1,14 @@
 # Site settings
 title: Windy City Lab
-email: your-email@windycitylab.com
+email: kevin@thewcl.com
 description: >- 
   Professional consulting and training in AI, Software Development, 
   Hardware Engineering, and Technical Education.
 baseurl: "" # leave empty if hosting at root
-url: "https://windycitylab.com"
+url: "https://thewcl.com"
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -43,6 +42,6 @@ exclude:
   - vendor/
 
 remote_theme: trylaarsdam/jekyll-theme-console
-style: light
+style: dark
 
 footer: '© 2025 Windy City Lab, LLC -- All Rights Reserved'
