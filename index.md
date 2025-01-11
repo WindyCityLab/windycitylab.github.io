@@ -4,12 +4,6 @@ title: WCL Overview
 permalink: /
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-<p class="center">
-<img src="wcl_updated.png" alt="Image" width="40%" height="40%" align="center" class="center" style="display: block; display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" />
-</p>
 
 <style>
 /* Default light theme variables */
@@ -54,8 +48,6 @@ a {
 </style>
 
 # Welcome to Windy City Lab
-
-# Professional Services
 
 Welcome to my professional services portfolio. I provide consulting services in four key areas:
 
@@ -115,5 +107,3 @@ Welcome to my professional services portfolio. I provide consulting services in 
     </ul>
   </div>
 </div>
-
----
