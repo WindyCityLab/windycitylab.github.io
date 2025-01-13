@@ -15,7 +15,7 @@ A deep dive into modern processor design and implementation:
 - Performance analysis and optimization
 - Hands-on exercises with real CPU designs
 
-[Learn more about CPU Architecture](cpu-architecture)
+[Learn more about CPU Architecture](https://turingguild.com/cpu-architecture-overview/)
 
 ## Engineering Your Own Computer
 Build a complete computer system from the ground up:
@@ -27,6 +27,8 @@ Build a complete computer system from the ground up:
 - Practical hardware assembly
 - Basic operating system concepts
 - Final project: Functional computer system
+
+[Learn more about Build Your Own Computer](https://turingguild.com/byoc-overview/)
 
 ## Leveraging AI in Computer Science & Engineering
 Master the integration of AI into technical projects:
