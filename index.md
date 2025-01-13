@@ -29,13 +29,8 @@ End-to-end development services for your technical needs:
 [Learn more](software-hardware)
 
 ## 3. In-Person Training & Workshops
-Hands-on learning experiences tailored to your team:
-* AI Implementation Workshops
-* Technical Skills Training
-* Team Capability Building
-* Interactive Learning Sessions
 
-Additionally I offer two courses at Northwestern University each summer under the Center for Talent Development (CDT)
+I'm offer two courses at Northwestern University each summer under the Center for Talent Development (CTD)
 
 This summer (2025) I am offering:
 * Leveraging AI in Computer Science & Engineering
