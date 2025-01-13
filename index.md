@@ -34,7 +34,7 @@ I'm offer two courses at Northwestern University each summer under the Center fo
 
 This summer (2025) I am offering:
 * [Leveraging AI in Computer Science & Engineering](https://my.ctd.northwestern.edu/myctd/s/course-offerings?c__subjectArea=Technology&c__offeringId=a01PI00000Kx84EYAR)
-* Engineering Your Own Computer
+* [Engineering Your Own Computer] (https://my.ctd.northwestern.edu/myctd/s/course-offerings?c__subjectArea=Technology&c__gradeLevel=9th%20Grade&c__offeringId=a01PI00000Kx84LYAR)
 
 [Learn more](in-person-courses)
 
