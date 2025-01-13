@@ -6,7 +6,7 @@ permalink: /in-person-courses/
 
 # In-Person Technical Courses
 
-I offer intensive, hands-on courses designed for engineers, developers, and technical professionals who want to deepen their understanding of fundamental and emerging technologies.
+I offer rigorous, hands-on STEM education courses. My in-person courses are taught each summer at [Northwestern Universities Center for Talent Development](https://my.ctd.northwestern.edu/myctd/s/course-offerings?c__subjectArea=Technology&c__gradeLevel=9th%20Grade,10th%20Grade,11th%20Grade,12th%20Grade).
 
 ## CPU Architecture
 A deep dive into modern processor design and implementation:
@@ -39,22 +39,5 @@ Master the integration of AI into technical projects:
 - Hands-on projects combining AI and engineering
 - Best practices for AI implementation
 
----
-
-### Course Formats
-- Small group sessions (maximum 12 participants)
-- Hands-on laboratory work
-- Project-based learning
-- Interactive discussions
-- Real-world applications
-- Take-home materials and resources
-
-### Who Should Attend
-- Software Engineers
-- Hardware Engineers
-- Technical Managers
-- Computer Science Students
-- IT Professionals
-- Engineering Teams
 
 [Contact me](contact) to schedule a course for your team or organization. 
