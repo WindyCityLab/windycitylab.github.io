@@ -30,7 +30,7 @@ Build a complete computer system from the ground up:
 
 [Learn more about Build Your Own Computer](https://turingguild.com/byoc-overview/)
 
-## Leveraging AI in Computer Science & Engineering
+## AI Applications in Computer Science
 Master the integration of AI into technical projects:
 - Foundation of Large Language Models (LLMs)
 - Practical applications of AI in engineering
