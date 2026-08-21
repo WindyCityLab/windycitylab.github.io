@@ -1,4 +1,4 @@
-import{t as e}from"./icons-CA3woxtp.js";document.querySelector(`#app`).innerHTML=`
+import{t as e}from"./icons-pPQDucz3.js";document.querySelector(`#app`).innerHTML=`
   <header class="site-header" data-header>
     <div class="container header-inner">
       <a class="wordmark" href="#top" aria-label="Kevin McQuown, home">Kevin McQuown</a>
@@ -29,10 +29,10 @@ import{t as e}from"./icons-CA3woxtp.js";document.querySelector(`#app`).innerHTML
         <div class="process-sketch reveal">
           <img
             class="practice-map-illustration"
-            src="/images/three-practices-turingguild.png"
+            src="/images/ai-consulting-process-turingguild.png"
             width="1536"
             height="1024"
-            alt="Three separate practices: AI consulting for companies, teaching AI and computer engineering, and curriculum development for courses, labs, and projects."
+            alt="AI consulting process: understand the work, identify the opportunity, build and integrate, and help the team adopt."
           />
         </div>
       </div>
@@ -70,18 +70,6 @@ import{t as e}from"./icons-CA3woxtp.js";document.querySelector(`#app`).innerHTML
             </div>
           </div>
         </div>
-        <div class="discipline reveal">
-          ${e(`code`)}
-          <h3>AI Engineering</h3>
-          <p>Applied AI, language models, agentic systems, APIs, data integration, and the practices needed to build dependable AI-enabled software.</p>
-          <span class="short-rule" aria-hidden="true"></span>
-        </div>
-        <div class="discipline reveal">
-          ${e(`chip`)}
-          <h3>Computer Engineering</h3>
-          <p>Digital electronics, embedded software, hardware interfaces, connected devices, and the bridge between physical systems and code.</p>
-          <span class="short-rule" aria-hidden="true"></span>
-        </div>
       </div>
     </section>
 
@@ -92,24 +80,11 @@ import{t as e}from"./icons-CA3woxtp.js";document.querySelector(`#app`).innerHTML
             ${e(`profile`)}
             <div>
               <h2>About Kevin</h2>
-              <p>My career has moved from embedded avionics and software architecture to mobile products, connected devices, technical leadership, and education. Across all of it, the common thread has been turning complex technology into systems—and explanations—that people can actually use.</p>
+              <p>My career has moved from embedded avionics and software architecture to mobile products, connected devices, technical leadership, and education. Across all of it, the common thread has been turning complex technology into systems and explanations that people can actually use.</p>
             </div>
           </div>
           <a class="text-link" href="/about/">
             Read more about Kevin ${e(`arrow`)}
-          </a>
-        </article>
-        <article class="current-work reveal">
-          <div class="section-heading compact">
-            ${e(`pencil`)}
-            <div>
-              <p class="section-label">Current work</p>
-              <h2>Scritorio</h2>
-              <p>A focused writing environment for authors, built around thoughtful tools and a respect for the writer’s process.</p>
-            </div>
-          </div>
-          <a class="text-link" href="https://scritorio.studio" target="_blank" rel="noreferrer">
-            Visit scritorio.studio ${e(`arrow`)}
           </a>
         </article>
       </div>
