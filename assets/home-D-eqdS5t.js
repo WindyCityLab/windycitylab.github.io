@@ -1,4 +1,4 @@
-import{t as e}from"./icons-pPQDucz3.js";document.querySelector(`#app`).innerHTML=`
+import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML=`
   <header class="site-header" data-header>
     <div class="container header-inner">
       <a class="wordmark" href="#top" aria-label="Kevin McQuown, home">Kevin McQuown</a>
@@ -29,10 +29,10 @@ import{t as e}from"./icons-pPQDucz3.js";document.querySelector(`#app`).innerHTML
         <div class="process-sketch reveal">
           <img
             class="practice-map-illustration"
-            src="/images/ai-consulting-process-turingguild.png"
+            src="/images/three-practices-turingguild.png"
             width="1536"
             height="1024"
-            alt="AI consulting process: understand the work, identify the opportunity, build and integrate, and help the team adopt."
+            alt="Three separate practices: AI consulting for companies, teaching AI and computer engineering, and curriculum development for courses, labs, and projects."
           />
         </div>
       </div>
@@ -49,12 +49,15 @@ import{t as e}from"./icons-pPQDucz3.js";document.querySelector(`#app`).innerHTML
             </div>
           </div>
         </div>
-        <ol class="process-list reveal" aria-label="AI consulting process">
-          <li>${e(`document`)}<span>Understand<br />the work</span></li>
-          <li>${e(`search`)}<span>Identify<br />opportunities</span></li>
-          <li>${e(`integrate`)}<span>Build and<br />integrate</span></li>
-          <li>${e(`people`)}<span>Help teams<br />adopt</span></li>
-        </ol>
+        <div class="consulting-visual reveal">
+          <img
+            class="consulting-process-illustration"
+            src="/images/ai-consulting-process-turingguild.png"
+            width="1536"
+            height="1024"
+            alt="AI consulting process: understand the work, identify the opportunity, build and integrate, and help the team adopt."
+          />
+        </div>
       </div>
     </section>
 
