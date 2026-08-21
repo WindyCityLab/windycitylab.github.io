@@ -1,0 +1,48 @@
+import"./icons-CA3woxtp.js";import{i as e,n as t,r as n,t as r}from"./course-common-BI63kfeo.js";var i={"ai-engineering":{title:`AI Engineering`,former:`formerly AI Applications in Computer Science`,intro:[`AI Engineering is a project-first course about building dependable software with models, agents, data, and real interfaces—not simply learning how to chat with an AI.`,`The 2026 curriculum moves from command-line and data foundations into LLMs, context, APIs, databases, agents, deployment, and a shared Habitat system operating in the live Kepler world.`],outcomes:[{title:`Engineer with AI`,copy:`Use models and coding agents as capable tools while retaining architectural judgment and verification.`},{title:`Design the context`,copy:`Shape prompts, files, data, interfaces, and instructions so an agent can do reliable work.`},{title:`Ship a system`,copy:`Connect software, servers, persistence, live events, and human operations into one working whole.`}],phases:[{title:`Foundations and tools`,copy:`Terminal navigation, Markdown, JSON, GitHub, TypeScript, Bun, and the habits needed to work in a real codebase.`},{title:`Models, tokens, and prompting`,copy:`Base models, chat training, tokens, reinforcement learning, prompt engineering, and the practical limits of model behavior.`},{title:`AI-assisted development`,copy:`Vibe coding with discipline, object-oriented design, CLI discovery, AGENTS.md, and context engineering with Codex.`},{title:`Interfaces and data`,copy:`HTTP and REST, API credentials, DNS, databases, SQLite, text embeddings, and semantic search without keyword matching.`},{title:`Agents and operations`,copy:`Agent skills, MCP, OpenClaw, server architecture, deployment, systemd, secure access, and software that stays running.`},{title:`The Habitat capstone`,copy:`Teams extend a shared simulation with resources, construction, crew, exploration, alerts, dashboards, WebSockets, A2A communication, and live Kepler ticks.`}],projectLead:`The 2026 course uses one evolving system as the laboratory. Each new idea has to survive contact with the code, the server, other teams, and a world that keeps moving.`,projects:[{title:`A capable Habitat CLI`,copy:`A discoverable command surface for humans and agents, backed by a growing domain model.`},{title:`A deployed service`,copy:`Persistent data, REST interfaces, secure remote infrastructure, live processes, and operational recovery.`},{title:`A connected world`,copy:`A dashboard and agent-enabled system responding to shared Kepler events in real time.`}]},"build-your-own-computer":{title:`Build Your Own Computer`,intro:[`A computer becomes understandable when every cable, address, signal, and byte has somewhere concrete to go. Students assemble a complete 65C02-based machine and bring it to life one subsystem at a time.`,`The course connects hardware integration with low-level software: schematics and datasheets lead to memory maps, device drivers, a machine monitor, and programs running on a computer the students can physically inspect.`],outcomes:[{title:`Read the machine`,copy:`Use schematics, block diagrams, datasheets, and timing information as working engineering documents.`},{title:`Bring up hardware`,copy:`Test power, clock, reset, buses, memory, and peripherals systematically instead of guessing.`},{title:`Own every byte`,copy:`Write assembly and firmware with a direct understanding of where instructions and data travel.`}],phases:[{title:`The system block diagram`,copy:`Start with the whole computer: CPU, clock, reset, address and data buses, memory, storage, and input/output.`},{title:`Power, clock, and reset`,copy:`Establish the signals that let every device start in a known state and advance in time together.`},{title:`Buses and memory maps`,copy:`Wire the 65C02 to RAM and ROM, decode addresses, and trace read and write cycles across the system.`},{title:`Boot and monitor`,copy:`Program nonvolatile memory, understand reset vectors, and build the minimal software environment that makes the machine observable.`},{title:`Input, output, and storage`,copy:`Integrate serial communication, keyboard, display, general-purpose I/O, and SD-card storage through hardware interfaces and drivers.`},{title:`Programs on your computer`,copy:`Use assembly tools, transfer code, debug the hardware/software boundary, and run original programs on the completed system.`}],projectLead:`The finished computer is not a sealed product. It is a machine whose architecture remains visible, measurable, repairable, and open to extension.`,projects:[{title:`A working 65C02 computer`,copy:`Processor, memory, buses, clock, reset, and expansion hardware operating as one system.`},{title:`A useful monitor`,copy:`Low-level software for loading, inspecting, testing, and controlling the machine.`},{title:`An engineering record`,copy:`Schematics, memory maps, test results, and explanations that make the build reproducible.`}]},"cpu-architecture":{title:`CPU Architecture`,intro:[`CPU Architecture begins below assembly language, where voltage becomes logic and logic becomes a machine capable of following instructions.`,`Students construct an original 8-bit processor from transistors and logic devices, building each subsystem on the previous one until arithmetic, storage, timing, and control operate together.`],outcomes:[{title:`Reason from signals`,copy:`Connect electricity, transistor switching, Boolean logic, and digital timing without skipping layers.`},{title:`Build the datapath`,copy:`Create arithmetic, storage, and bus subsystems and understand how data moves among them.`},{title:`Define a machine`,copy:`Design instructions and control sequences that turn hardware into a programmable processor.`}],phases:[{title:`Electricity and transistors`,copy:`Voltage, current, resistance, breadboards, polarity, pull-up and pull-down resistors, and the transistor as a switch.`},{title:`Boolean logic`,copy:`Build NOT, NAND, AND, OR, and XOR gates, then use truth tables to describe and verify their behavior.`},{title:`Arithmetic`,copy:`Combine gates into half adders, full adders, an 8-bit ALU, and two’s-complement subtraction.`},{title:`State and registers`,copy:`Move from RS latches and D latches to flip-flops, registers, and the stored state a processor needs.`},{title:`Buses, memory, and timing`,copy:`Use high-impedance outputs, shared buses, clocks, program counters, and RAM to coordinate data movement.`},{title:`Control and instructions`,copy:`Design an instruction set and control sequencing that coordinates the datapath and executes complete programs.`}],projectLead:`Instead of memorizing a CPU block diagram, students earn it—constructing and debugging each block until the diagram describes something working on the bench.`,projects:[{title:`An 8-bit datapath`,copy:`Registers, buses, arithmetic, and status behavior assembled from understandable logic.`},{title:`A control system`,copy:`Clocked sequencing and control words that coordinate each instruction step.`},{title:`A programmable CPU`,copy:`A complete processor executing a small instruction set and programs designed by the student.`}]}},a=i[location.pathname.split(`/`).filter(Boolean).at(-1)??`ai-engineering`]??i[`ai-engineering`];document.querySelector(`#app`).innerHTML=`
+  ${n()}
+  <main id="main-content">
+    <section class="course-detail-hero">
+      <div class="container">
+        <a class="course-back" href="/courses/">← All courses</a>
+        <div class="course-detail-hero-grid">
+          <div>
+            <h1>${a.title}</h1>
+            ${a.former?`<p class="course-former hero-former">${a.former}</p>`:``}
+            <div class="course-signal" aria-hidden="true"><span></span><i></i><span></span><i></i><span></span></div>
+          </div>
+          <div class="course-detail-introduction">${a.intro.map(e=>`<p>${e}</p>`).join(``)}</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="course-outcomes ruled-section" aria-labelledby="outcomes-heading">
+      <div class="container course-outcomes-grid">
+        <h2 id="outcomes-heading">What students learn</h2>
+        ${a.outcomes.map((e,t)=>`<article><span>0${t+1}</span><h3>${e.title}</h3><p>${e.copy}</p></article>`).join(``)}
+      </div>
+    </section>
+
+    <section class="curriculum-section ruled-section" aria-labelledby="curriculum-heading">
+      <div class="container curriculum-layout">
+        <div class="curriculum-heading"><h2 id="curriculum-heading">Curriculum arc</h2><p class="pencil-note-static">concept → system</p></div>
+        <ol class="curriculum-rail">
+          ${a.phases.map((e,t)=>`<li><span>0${t+1}</span><div><h3>${e.title}</h3><p>${e.copy}</p></div></li>`).join(``)}
+        </ol>
+      </div>
+    </section>
+
+    <section class="course-work ruled-section" aria-labelledby="course-work-heading">
+      <div class="container course-work-grid">
+        <div><h2 id="course-work-heading">The work is the curriculum.</h2><p>${a.projectLead}</p></div>
+        <div class="course-projects">${a.projects.map((e,t)=>`<article><span>0${t+1}</span><h3>${e.title}</h3><p>${e.copy}</p></article>`).join(``)}</div>
+      </div>
+    </section>
+
+    <section class="course-closing ruled-section">
+      <div class="container course-closing-grid">
+        <h2>Questions about the course or curriculum?</h2>
+        <div><p>I’m happy to discuss the course, its learning goals, or how this material can be adapted for a particular group of students.</p><a class="contact-link" href="mailto:kevin@thewcl.com">Email Kevin ${r()}</a></div>
+      </div>
+    </section>
+  </main>
+  ${t()}`,e();

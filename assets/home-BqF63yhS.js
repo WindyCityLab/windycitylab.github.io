@@ -1,4 +1,4 @@
-import{t as e}from"./icons-D6oo_yXu.js";document.querySelector(`#app`).innerHTML=`
+import{t as e}from"./icons-CA3woxtp.js";document.querySelector(`#app`).innerHTML=`
   <header class="site-header" data-header>
     <div class="container header-inner">
       <a class="wordmark" href="#top" aria-label="Kevin McQuown, home">Kevin McQuown</a>
@@ -24,27 +24,16 @@ import{t as e}from"./icons-D6oo_yXu.js";document.querySelector(`#app`).innerHTML
         <div class="hero-copy reveal">
           <h1>AI consulting, teaching,<br />and curriculum development.</h1>
           <span class="red-rule" aria-hidden="true"></span>
-          <p>I help companies bring AI into the way they work—and help students and teams understand the engineering behind it.</p>
+          <p>I help companies bring AI into the way they work. I also teach AI and computer engineering and develop project-based curriculum for students and professionals.</p>
         </div>
-        <div class="process-sketch reveal" aria-label="A practical process from current work to team adoption">
-          <p class="pencil-note">Start with<br />real work</p>
-          <svg viewBox="0 0 560 245" role="img" aria-label="Four connected stages of a working process">
-            <path class="sketch-arrow" d="M58 62 30 96" />
-            <path class="sketch-arrow-head" d="m30 96 2-12m-2 12 12-4" />
-            <g class="sketch-flow">
-              <rect x="38" y="112" width="72" height="72" />
-              <path d="M110 148h48"/><path d="m151 141 8 7-8 7"/>
-              <rect x="166" y="112" width="72" height="72" />
-              <path d="M238 148h48"/><path d="m279 141 8 7-8 7"/>
-              <rect x="294" y="112" width="72" height="72" />
-              <path d="M366 148h48"/><path d="m407 141 8 7-8 7"/>
-              <rect x="422" y="112" width="72" height="72" />
-              <path class="accent-stroke" d="M47 202h54M175 202h54M303 202h54M431 202h54" />
-            </g>
-            <g class="register-mark">
-              <circle cx="516" cy="71" r="17"/><path d="M489 71h54M516 44v54"/>
-            </g>
-          </svg>
+        <div class="process-sketch reveal">
+          <img
+            class="practice-map-illustration"
+            src="/images/three-practices-turingguild.png"
+            width="1536"
+            height="1024"
+            alt="Three separate practices: AI consulting for companies, teaching AI and computer engineering, and curriculum development for courses, labs, and projects."
+          />
         </div>
       </div>
     </section>
