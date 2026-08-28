@@ -1,22 +1,5 @@
-import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML=`
-  <header class="site-header" data-header>
-    <div class="container header-inner">
-      <a class="wordmark" href="/" aria-label="Kevin McQuown, home">Kevin McQuown</a>
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-navigation">
-        <span>Menu</span>
-        <i aria-hidden="true"></i>
-      </button>
-      <nav id="site-navigation" class="site-nav" aria-label="Primary navigation">
-        <a href="/#consulting">AI consulting</a>
-        <a href="/courses/">Courses</a>
-        <a class="is-active" href="/software/" aria-current="page">Software</a>
-        <a href="/about/">About</a>
-        <a href="/astrophotography/">Astrophotography</a>
-        <a href="https://scritorio.studio" target="_blank" rel="noreferrer">Scritorio</a>
-        <a class="nav-contact" href="mailto:kevin@thewcl.com">Contact</a>
-      </nav>
-    </div>
-  </header>
+import{n as e,r as t,t as n}from"./site-header-CkkVm_in.js";document.querySelector(`#app`).innerHTML=`
+  ${e(`software`)}
 
   <main id="main-content">
     <section class="software-hero">
@@ -107,7 +90,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
                 <li>Frame review and stacking</li>
                 <li>End-to-end image processing</li>
               </ul>
-              <a class="text-link" href="/astrophotography/">See the observatory architecture ${e(`arrow`)}</a>
+              <a class="text-link" href="/astrophotography/">See the observatory architecture ${t(`arrow`)}</a>
             </div>
           </article>
 
@@ -146,7 +129,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
                 <li>Author-controlled AI review</li>
                 <li>Publishing preparation</li>
               </ul>
-              <a class="text-link" href="https://scritorio.studio" target="_blank" rel="noreferrer">Visit scritorio.studio ${e(`arrow`)}</a>
+              <a class="text-link" href="https://scritorio.studio" target="_blank" rel="noreferrer">Visit scritorio.studio ${t(`arrow`)}</a>
             </div>
           </article>
         </div>
@@ -176,7 +159,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
         <h2>What would you build if the old constraints changed?</h2>
         <div>
           <p>I help organizations answer that question carefully—starting with the real process, then deciding where AI and custom software can create durable value.</p>
-          <a class="contact-link" href="mailto:kevin@thewcl.com">Start a conversation ${e(`arrow`)}</a>
+          <a class="contact-link" href="mailto:kevin@thewcl.com">Start a conversation ${t(`arrow`)}</a>
         </div>
       </div>
     </section>
@@ -188,4 +171,4 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
       <a href="/">Back to home</a>
     </div>
   </footer>
-`;var t=document.querySelector(`.menu-toggle`),n=document.querySelector(`.site-nav`);t?.addEventListener(`click`,()=>{let e=t.getAttribute(`aria-expanded`)===`true`;t.setAttribute(`aria-expanded`,String(!e)),n?.classList.toggle(`is-open`,!e)}),n?.querySelectorAll(`a`).forEach(e=>{e.addEventListener(`click`,()=>{t?.setAttribute(`aria-expanded`,`false`),n.classList.remove(`is-open`)})}),document.querySelector(`[data-year]`).textContent=String(new Date().getFullYear());
+`,n();

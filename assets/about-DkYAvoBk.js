@@ -1,22 +1,5 @@
-import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML=`
-  <header class="site-header" data-header>
-    <div class="container header-inner">
-      <a class="wordmark" href="/" aria-label="Kevin McQuown, home">Kevin McQuown</a>
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-navigation">
-        <span>Menu</span>
-        <i aria-hidden="true"></i>
-      </button>
-      <nav id="site-navigation" class="site-nav" aria-label="Primary navigation">
-        <a href="/#consulting">AI consulting</a>
-        <a href="/courses/">Courses</a>
-        <a href="/software/">Software</a>
-        <a class="is-active" href="/about/" aria-current="page">About</a>
-        <a href="/astrophotography/">Astrophotography</a>
-        <a href="https://scritorio.studio" target="_blank" rel="noreferrer">Scritorio</a>
-        <a class="nav-contact" href="mailto:kevin@thewcl.com">Contact</a>
-      </nav>
-    </div>
-  </header>
+import{n as e,r as t,t as n}from"./site-header-CkkVm_in.js";document.querySelector(`#app`).innerHTML=`
+  ${e(`about`)}
 
   <main id="main-content">
     <section class="bio-hero">
@@ -40,7 +23,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
         </div>
         <ol class="career-rail">
           <li>
-            <div class="career-mark">${e(`plane`)}</div>
+            <div class="career-mark">${t(`plane`)}</div>
             <div class="career-era">Foundations</div>
             <div class="career-copy">
               <h3>Avionics and embedded systems</h3>
@@ -48,7 +31,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
             </div>
           </li>
           <li>
-            <div class="career-mark">${e(`compass`)}</div>
+            <div class="career-mark">${t(`compass`)}</div>
             <div class="career-era">Architecture</div>
             <div class="career-copy">
               <h3>Consulting at organizational scale</h3>
@@ -56,7 +39,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
             </div>
           </li>
           <li>
-            <div class="career-mark">${e(`wine`)}</div>
+            <div class="career-mark">${t(`wine`)}</div>
             <div class="career-era">Entrepreneurship · 1999–2009</div>
             <div class="career-copy">
               <h3>Building a winery and custom-crush business</h3>
@@ -64,7 +47,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
             </div>
           </li>
           <li>
-            <div class="career-mark">${e(`mobile`)}</div>
+            <div class="career-mark">${t(`mobile`)}</div>
             <div class="career-era">Products</div>
             <div class="career-copy">
               <h3>Mobile, connected products, and technical leadership</h3>
@@ -72,7 +55,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
             </div>
           </li>
           <li>
-            <div class="career-mark">${e(`book`)}</div>
+            <div class="career-mark">${t(`book`)}</div>
             <div class="career-era">Education</div>
             <div class="career-copy">
               <h3>Teaching engineering by building</h3>
@@ -80,7 +63,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
             </div>
           </li>
           <li>
-            <div class="career-mark">${e(`spark`)}</div>
+            <div class="career-mark">${t(`spark`)}</div>
             <div class="career-era">Now</div>
             <div class="career-copy">
               <h3>Applied AI and thoughtful software</h3>
@@ -110,7 +93,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
     <section class="personal-section ruled-section" aria-labelledby="personal-heading">
       <div class="container personal-grid">
         <div class="personal-sketch" aria-hidden="true">
-          ${e(`telescope`)}
+          ${t(`telescope`)}
           <span class="orbit orbit-one"></span>
           <span class="orbit orbit-two"></span>
           <span class="star star-one">✦</span>
@@ -119,7 +102,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
         <div class="personal-copy">
           <h2 id="personal-heading">Outside the work</h2>
           <p>I was born and raised in Chicago and became fascinated with computers early—my first was an Apple II Plus. Away from software, I play piano, photograph the night sky, and maintain a deep interest in astronomy. I earned a private pilot’s license in 1983, remain an unapologetic Star Trek fan, and still find the combination of science, engineering, and imagination endlessly compelling.</p>
-          <a class="text-link" href="/astrophotography/">Explore the Starfront observatory ${e(`arrow`)}</a>
+          <a class="text-link" href="/astrophotography/">Explore the Starfront observatory ${t(`arrow`)}</a>
         </div>
       </div>
     </section>
@@ -129,7 +112,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
         <h2>Let’s talk about the work.</h2>
         <div>
           <p>If you’re considering how AI might fit into your organization—or looking for thoughtful engineering curriculum—I’m happy to start with a conversation.</p>
-          <a class="contact-link" href="mailto:kevin@thewcl.com">kevin@thewcl.com ${e(`arrow`)}</a>
+          <a class="contact-link" href="mailto:kevin@thewcl.com">kevin@thewcl.com ${t(`arrow`)}</a>
         </div>
       </div>
     </section>
@@ -141,4 +124,4 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
       <a href="/">Back to home</a>
     </div>
   </footer>
-`;var t=document.querySelector(`.menu-toggle`),n=document.querySelector(`.site-nav`);t?.addEventListener(`click`,()=>{let e=t.getAttribute(`aria-expanded`)===`true`;t.setAttribute(`aria-expanded`,String(!e)),n?.classList.toggle(`is-open`,!e)}),n?.querySelectorAll(`a`).forEach(e=>{e.addEventListener(`click`,()=>{t?.setAttribute(`aria-expanded`,`false`),n.classList.remove(`is-open`)})}),document.querySelector(`[data-year]`).textContent=String(new Date().getFullYear());
+`,n();

@@ -1,22 +1,5 @@
-import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML=`
-  <header class="site-header" data-header>
-    <div class="container header-inner">
-      <a class="wordmark" href="/" aria-label="Kevin McQuown, home">Kevin McQuown</a>
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-navigation">
-        <span>Menu</span>
-        <i aria-hidden="true"></i>
-      </button>
-      <nav id="site-navigation" class="site-nav" aria-label="Primary navigation">
-        <a href="/#consulting">AI consulting</a>
-        <a href="/courses/">Courses</a>
-        <a href="/software/">Software</a>
-        <a href="/about/">About</a>
-        <a class="is-active" href="/astrophotography/" aria-current="page">Astrophotography</a>
-        <a href="https://scritorio.studio" target="_blank" rel="noreferrer">Scritorio</a>
-        <a class="nav-contact" href="mailto:kevin@thewcl.com">Contact</a>
-      </nav>
-    </div>
-  </header>
+import{n as e,r as t,t as n}from"./site-header-CkkVm_in.js";document.querySelector(`#app`).innerHTML=`
+  ${e(`astrophotography`)}
 
   <main id="main-content">
     <section class="astro-hero">
@@ -164,7 +147,7 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
         <h2>Engineering is part of the image.</h2>
         <div>
           <p>Astrophotography begins with light that may have traveled for thousands of years. Capturing it reliably is a systems problem—optical, mechanical, electrical, computational, and operational all at once. That combination is exactly what keeps me interested.</p>
-          <a class="contact-link" href="/about/">More about Kevin ${e(`arrow`)}</a>
+          <a class="contact-link" href="/about/">More about Kevin ${t(`arrow`)}</a>
         </div>
       </div>
     </section>
@@ -176,4 +159,4 @@ import{t as e}from"./icons-DvcnWkJ4.js";document.querySelector(`#app`).innerHTML
       <a href="/">Back to home</a>
     </div>
   </footer>
-`;var t=document.querySelector(`.menu-toggle`),n=document.querySelector(`.site-nav`);t?.addEventListener(`click`,()=>{let e=t.getAttribute(`aria-expanded`)===`true`;t.setAttribute(`aria-expanded`,String(!e)),n?.classList.toggle(`is-open`,!e)}),n?.querySelectorAll(`a`).forEach(e=>{e.addEventListener(`click`,()=>{t?.setAttribute(`aria-expanded`,`false`),n.classList.remove(`is-open`)})}),document.querySelector(`[data-year]`).textContent=String(new Date().getFullYear());
+`,n();
