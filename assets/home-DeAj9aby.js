@@ -1,4 +1,4 @@
-import{n as e,r as t}from"./site-header-CkkVm_in.js";import{i as n}from"./course-common-5AP3-zp4.js";document.querySelector(`#app`).innerHTML=`
+import{n as e,r as t}from"./site-header-ByamcGtw.js";import{i as n}from"./course-common-C9zQKIEK.js";document.querySelector(`#app`).innerHTML=`
   ${e()}
   <main id="main-content" class="editorial-home">
     <section id="top" class="editorial-hero container" aria-labelledby="intro-heading">

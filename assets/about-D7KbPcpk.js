@@ -1,4 +1,4 @@
-import{n as e,r as t,t as n}from"./site-header-CkkVm_in.js";document.querySelector(`#app`).innerHTML=`
+import{n as e,r as t,t as n}from"./site-header-ByamcGtw.js";document.querySelector(`#app`).innerHTML=`
   ${e(`about`)}
 
   <main id="main-content">
@@ -102,7 +102,10 @@ import{n as e,r as t,t as n}from"./site-header-CkkVm_in.js";document.querySelect
         <div class="personal-copy">
           <h2 id="personal-heading">Outside the work</h2>
           <p>I was born and raised in Chicago and became fascinated with computers early—my first was an Apple II Plus. Away from software, I play piano, photograph the night sky, and maintain a deep interest in astronomy. I earned a private pilot’s license in 1983, remain an unapologetic Star Trek fan, and still find the combination of science, engineering, and imagination endlessly compelling.</p>
-          <a class="text-link" href="/astrophotography/">Explore the Starfront observatory ${t(`arrow`)}</a>
+          <div class="personal-links">
+            <a class="text-link" href="/people-i-admire/">Meet the people I admire ${t(`arrow`)}</a>
+            <a class="text-link" href="/astrophotography/">Explore the Starfront observatory ${t(`arrow`)}</a>
+          </div>
         </div>
       </div>
     </section>

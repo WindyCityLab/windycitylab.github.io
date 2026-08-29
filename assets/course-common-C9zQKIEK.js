@@ -1,4 +1,4 @@
-import{n as e,r as t,t as n}from"./site-header-CkkVm_in.js";var r=()=>e(`courses`),i=()=>`
+import{n as e,r as t,t as n}from"./site-header-ByamcGtw.js";var r=()=>e(`courses`),i=()=>`
   <footer class="site-footer">
     <div class="container footer-inner">
       <p>© <span data-year></span> Kevin McQuown</p>

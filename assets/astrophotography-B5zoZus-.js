@@ -1,4 +1,4 @@
-import{n as e,r as t,t as n}from"./site-header-CkkVm_in.js";document.querySelector(`#app`).innerHTML=`
+import{n as e,r as t,t as n}from"./site-header-ByamcGtw.js";document.querySelector(`#app`).innerHTML=`
   ${e(`astrophotography`)}
 
   <main id="main-content">
